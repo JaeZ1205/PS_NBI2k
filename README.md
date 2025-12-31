@@ -35,7 +35,7 @@
 
 - ## Access to the PS-NBI2K dataset
 
-    The dataset can now be accessed via [OneDrive](https://1drv.ms/u/s!Ai2EUUGkOvbJgP8nNCjQrr1Iow0b0A?e=6msvPO). To prevent non-scientific use of the dataset, the dataset archive is encrypted with a password. Please send an email to cooperzhuo@proton.me to get the password.
+    The dataset can now be accessed via [OneDrive](https://1drv.ms/u/c/c9f63aa44151842d/IQAthFFBpDr2IIDJpz8AAAAAAQWcA_lBsENvzHOS01w_QyY?e=usMmXH). To prevent non-scientific use of the dataset, the dataset archive is encrypted with a password. Please send an email to cooperzhuo@proton.me to get the password.
 
 - ## Citation
     If you want to use the database, please cite our paper
